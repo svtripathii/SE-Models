@@ -1,0 +1,39 @@
+To manage the Project management system adequately and efficiently, we use Project management tools.
+
+Gantt Chart:
+Gantt chart usually utilized in project management, and it is one of the most popular and helpful ways of showing activities displayed against time. 
+Each activity represented by a bar.
+Gantt chart is a useful tool when you want to see the entire landscape of either one or multiple projects. 
+It helps you to view which tasks are dependent on one another and which event is coming up.
+
+Pert Chart:
+PERT is an acronym of Programme Evaluation Review Technique. 
+In the 1950s, it is developed by the U.S. Navy to handle the Polaris submarine missile programme.
+In Project Management, PERT chart represented as a network diagram concerning the number of nodes, which represents events.
+
+Logic Network:
+The Logic Network shows the order of activities over time. 
+It shows the sequence in which activities are to do. 
+Distinguishing events and pinning down the project are the two primary uses. 
+Moreover, it will help with understanding task dependencies, a timescale, and overall project workflow
+
+Product Breakdown Structure:
+Product Breakdown Structure (BBS) is a management tool and necessary a part of the project designing. 
+It's a task-oriented system for subdividing a project into product parts. 
+The product breakdown structure describes subtasks or work packages and represents the connection between work packages. 
+Within the product breakdown Structure, the project work has diagrammatically pictured with various types of lists. 
+The product breakdown structure is just like the work breakdown structure (WBS).
+
+
+Work Breakdown Structure:
+It is an important project deliverable that classifies the team's work into flexible segments. 
+"Project Management Body of Knowledge (PMBOK)" is a group of terminology that describes the work breakdown structure as 
+a "deliverable-oriented hierarchical breakdown of the work which is performed by the project team."
+
+There are two ways to generate a Work Breakdown Structure ? The top-down and
+
+The bottom-up approach.
+
+In the top-down approach, the WBS derived by crumbling the overall project into subprojects or lower-level tasks.
+
+The bottom-up approach is more alike to a brainstorming exercise where team members are asked to make a list of low-level tasks which is required to complete the project.
