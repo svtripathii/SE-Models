@@ -1,0 +1,8 @@
+ER-modeling is a data modeling method used in software engineering to produce a conceptual data model of an information system.
+Diagrams created using this ER-modeling method are called Entity-Relationship Diagrams or ER diagrams or ERDs.
+
+Purpose of ERD
+
+The database analyst gains a better understanding of the data to be contained in the database through the step of constructing the ERD.
+The ERD serves as a documentation tool.
+Finally, the ERD is used to connect the logical structure of the database to users. In particular, the ERD effectively communicates the logic of the database to users.
