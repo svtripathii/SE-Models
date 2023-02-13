@@ -1,0 +1,33 @@
+Waterfall Model  model has five phases: 
+Requirements analysis and specification, 
+design, 
+implementation, and 
+unit testing, 
+integration and system testing, and 
+operation and maintenance. 
+The steps always follow in this order and do not overlap. 
+The developer must complete every phase before the next phase begins. 
+This model is named "Waterfall Model", because its diagrammatic representation resembles a cascade of waterfalls.
+
+Requirements analysis and specification phase: 
+The aim of this phase is to understand the exact requirements of the customer and to document them properly. 
+Both the customer and the software developer work together so as to document all the functions, performance, and interfacing requirement of the software.
+
+
+Design Phase: 
+This phase aims to transform the requirements gathered in the SRS into a suitable form which permits further coding in a programming language. 
+It defines the overall software architecture together with high level and detailed design.
+All this work is documented as a Software Design Document (SDD).
+
+
+Implementation and unit testing: 
+During this phase, design is implemented. 
+If the SDD is complete, the implementation or coding phase proceeds smoothly, because all the information needed by software developers is contained in the SDD.
+
+
+Integration and System Testing: This phase is highly crucial as the quality of the end product is determined by the effectiveness of the testing carried out.
+The better output will lead to satisfied customers, lower maintenance costs, and accurate results. 
+Unit testing determines the efficiency of individual modules.
+
+Operation and maintenance phase: Maintenance is the task performed by every user once the software has been delivered to the customer, 
+installed, and operational.
